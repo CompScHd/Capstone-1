@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
+
+* {
+    background-color: gainsboro;
+}
+.layout{
+    margin: 100px;
+}
+header {
+    text-align: center;
+    font-size: 'raleway';
+    font-style: Arial;
+}
+
+.sub-sections{
+    text-decoration: underline;
+    margin-left: 30px;
+}
